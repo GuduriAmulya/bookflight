@@ -7,3 +7,5 @@ Branch b1 making change and commiting but not pushing
 
 editing same line by branch 2..
  letting both.. survive in !!!!
+
+ I am modifing master search.txt and wish to push to github..
